@@ -1824,15 +1824,15 @@ reply(`*Follow Instagram @arrhmdfauzan_*\n\n You: Batu\n Computer: Kertas\n\nY
 }
 } else if (q == 'gunting') {
 if (computer == 'batu') {
-reply(`*Subscribe Yt RflBotz Ofc*\n\n You: Gunting\n Computer: Batu\n\nYou lose:(`)
+reply(`*Follow Instagram @arrhmdfauzan_*\n\n You: Gunting\n Computer: Batu\n\nYou lose:(`)
 } else {
-reply(`*Subscribe Yt RflBotz Ofc*\n\n You: Gunting\n Computer: Kertas\n\nCongrats You win!`)
+reply(`*Follow Instagram @arrhmdfauzan_*\n\n You: Gunting\n Computer: Kertas\n\nCongrats You win!`)
 }
 } else if (q == 'kertas') {
 if (computer == 'batu') {
-reply(`*Subscribe Yt RflBotz Ofc*\n\n You: Kertas\n Computer: Batu\n\nCongrats You win!`)
+reply(`*Follow Instagram @arrhmdfauzan_*\n\n You: Kertas\n Computer: Batu\n\nCongrats You win!`)
 } else {
-reply(`*Subscribe Yt RflBotz Ofc*\n\n You: Kertas\n Computer: Gunting\n\nYou lose:(`)
+reply(`*Follow Instagram @arrhmdfauzan_*\n\n You: Kertas\n Computer: Gunting\n\nYou lose:(`)
 }
 }
 }
